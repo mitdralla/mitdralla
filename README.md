@@ -1,6 +1,9 @@
-### Hi there 👋
+### Welcome to my code repositories 👋
 
 ![Mitdralla's github stats](https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla)](https://github.com/mitdralla/github-readme-stats)
+
 
 <!--
 **mitdralla/mitdralla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
