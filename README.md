@@ -2,7 +2,14 @@
 
 ![Mitdralla's github stats](https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla)](https://github.com/mitdralla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact)](https://github.com/mitdralla/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" />
+</a>
 
 
 <!--
