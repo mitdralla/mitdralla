@@ -1,12 +1,7 @@
 ### Welcome to Github profile 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" />
-</a>
-<br /><br />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" />
+
 
 
 <!--
