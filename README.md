@@ -1,7 +1,6 @@
 ### Welcome to Github profile 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" style="padding-right:0px;/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" style="padding-left:20px; />
 
 
 <!--
