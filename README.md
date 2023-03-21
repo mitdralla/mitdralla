@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mitdralla/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TimAllard/)
-![Twitter Follow](https://img.shields.io/twitter/follow/TimAllard?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TimAllard?style=social)](https://twitter.com/intent/user?screen_name=TimAllard)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" style="padding-right:0px !important;"/>
 
