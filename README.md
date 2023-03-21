@@ -1,6 +1,11 @@
 ### Welcome to my Github profile 👋
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mitdralla/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TimAllard/)
+![Twitter Follow](https://img.shields.io/twitter/follow/TimAllard?style=social)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitdralla&show_icons=true&theme=default" style="padding-right:0px !important;"/>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitdralla&layout=compact" style="padding-left:20px !important;" />
 
